@@ -24,7 +24,13 @@ I'm eager to learn and improve every day. Whether it's analyzing datasets in Exc
     - https://github.com/andreia-pereira2/Global-Superstore-Dashboard-using-Tableau
 - **Tableau:** 
 - **MySQL:**  
-- **Python:**  
+- **Python:**
+
+### My Goals for Data Analysis
+- Work on real-world data projects and build my confidence on data analysis and data visualisation tools such as Tableau and PowerBI
+- Improve SQL quering skills
+- Become proficient in Python for automation and analysis
+- Keep studying to grow my data skills
 
 ### 📫 Let's Connect!
 I'm always open to learning and collaboration. Feel free to check out my projects and connect with me! 🚀
