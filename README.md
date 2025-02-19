@@ -2,7 +2,7 @@
 
 ## 🚀 Data Enthusiast | Aspiring Data Analyst
 
-Welcome to my GitHub! I'm currently sharpening my skills on **data analysis** and loving every part of the journey! 📊🔍 
+Welcome to my GitHub! I'm currently sharpening my skills in **Data Analysis** and loving every part of the journey! 📊🔍 
 I'm eager to learn and improve every day. Whether it's analyzing datasets in Excel, creating dashboards in Power BI, or writing SQL queries, I'm always looking for ways to grow my skills and take on new challenges.  
 
 ### 🛠️ Tools I'm Exploring:
@@ -27,8 +27,8 @@ I'm eager to learn and improve every day. Whether it's analyzing datasets in Exc
 - **Python:**
 
 ### My Goals for Data Analysis
-- Work on real-world data projects and build my confidence on data analysis and data visualisation tools such as Tableau and PowerBI
-- Improve SQL quering skills
+- Work on real-world data projects and build my confidence in data analysis and data visualisation tools such as Tableau and PowerBI
+- Improve SQL querying skills
 - Become proficient in Python for automation and analysis
 - Keep studying to grow my data skills
 
